@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shahriyar Tarnasi</h1>
 <h3 align="center">A Software Engineer (Python/Django developer)</h3>
 
-- 🔭 I’m currently working on [Django Authentication API](https://github.com/tarnasi/djang-auth-api)
+- 🔭 I’m currently working on a project its name is Mahdekodak
 
 - 🌱 I’m currently learning **Microservices**
 
-- 👯 I’m looking to collaborate on **Python / Django project**
+- 👯 I’m looking to collaborate on **Python / Django project / C# / ASP.Net Core**
 
-- 🤝 I’m looking for help with **microservices design**
+- 🤝 I’m looking for help with **microservices design / Learning C# / ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarnasi](https://github.com/tarnasi)
 
-- 📝 I regularly write articles on [https://enigmastudio.dev/blogs](https://enigmastudio.dev/blogs)
+- 📝 I regularly write articles on [Tarnasi Weblog](https://shahriyartarnasi.site/Blog)
 
-- 💬 Ask me about **django, python, Linux**
+- 💬 Ask me about **django, python, Linux, C# / ASP.NET Core**
 
 - 📫 How to reach me **shahryar.tarnasi@gmail.com**
 
-- 📄 Know about my experiences [https://enigmastudio.dev/team/2](https://enigmastudio.dev/team/2)
+- 📄 Know about my experiences [Tarnasi CV](https://shahriyartarnasi.site/Resume)
 
-- ⚡ Fun fact **I riding, swimming and have fun with friends like discuss about Anime, Code, Books :)**
+- ⚡ Fun fact **I riding, swimming, playing game, Workout and have fun with my friends like discuss about Anime, Code, Books, Movies, Serials :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
