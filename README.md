@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shahriyar Tarnasi</h1>
-<h3">A Software Engineer (Python/ developeDjango, FastAPI, React, Electron)</h3>
+<h3> I am a Software Engineer who knows about Python / Django / FastAPI / React / Electron </h3>
 
 - 🔭 I’m currently working on a project its name is Drillifant
 
