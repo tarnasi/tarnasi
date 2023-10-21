@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shahriyar Tarnasi</h1>
-<h3> I am a Software Engineer who knows about Python / Django / FastAPI / React / Electron </h3>
+<h3>I am a Software Engineer who knows about Python / Django / FastAPI / React / Electron </h3>
 
 - 🔭 I’m currently working on a project its name is Drillifant
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python / Django / FastAPI project**
 
-- 🤝 I’m looking for help with **M<icroservices / Event Driven Architecture**
+- 🤝 I’m looking for help with **Microservices / Event Driven Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarnasi](https://github.com/tarnasi)
 
