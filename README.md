@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahriyar Tarnasi</h1>
-<h3 align="center">A Software Engineer (Python/Django developer)</h3>
+<h3 align="center">A Software Engineer (Python/ develope</h3Django, FastAPI, React, Electron
 
-- 🔭 I’m currently working on a project its name is Mahdekodak
+- 🔭 I’m currently working on a project its name is Drillifant
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **Microservices / Event Driven**
 
 - 👯 I’m looking to collaborate on **Python / Django project / C# / ASP.Net Core**
 
@@ -13,13 +13,13 @@
 
 - 📝 I regularly write articles on [Tarnasi Weblog](https://shahriyartarnasi.site/Blog)
 
-- 💬 Ask me about **django, python, Linux, C# / ASP.NET Core**
+- 💬 Ask me about **Python, Django, FastAPI, React, Electron**
 
 - 📫 How to reach me **shahryar.tarnasi@gmail.com**
 
 - 📄 Know about my experiences [Tarnasi CV](https://shahriyartarnasi.site/Resume)
 
-- ⚡ Fun fact **I riding, swimming, playing game, Workout and have fun with my friends like discuss about Anime, Code, Books, Movies, Serials :)**
+- ⚡ Fun fact **I ride, swim, play games, Workout, and motivate people to do beautiful code :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
