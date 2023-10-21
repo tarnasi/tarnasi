@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Microservices / Event Driven**
 
-- 👯 I’m looking to collaborate on **Python / Django project / C# / ASP.Net Core**
+- 👯 I’m looking to collaborate on **Python / Django / FastAPI project**
 
-- 🤝 I’m looking for help with **microservices design / Learning C# / ASP.NET Core**
+- 🤝 I’m looking for help with **M<icroservices / Event Driven Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarnasi](https://github.com/tarnasi)
 
