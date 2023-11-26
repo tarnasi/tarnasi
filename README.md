@@ -1,25 +1,23 @@
 <h1>Hi 👋, I'm Shahriyar Tarnasi</h1>
-<h3>I am a Software Engineer who knows about Python / Django / FastAPI / React / Electron </h3>
+<h3>I am a Software Engineer who knows about PHP / Laravel / Python(pandas-numpy) / react(nextjs)</h3>
 
-- 🔭 I’m currently working on a project its name is Drillifant
+- 🔭 I’m currently working on a project its name is Drilliphant
 
-- 🌱 I’m currently learning **Microservices / Event Driven**
+- 🌱 I’m currently learning **Architecture**
 
-- 👯 I’m looking to collaborate on **Python / Django / FastAPI project**
-
-- 🤝 I’m looking for help with **Microservices / Event Driven Architecture**
+- 👯 I’m looking to collaborate on **PHP / Python / Nexjs projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarnasi](https://github.com/tarnasi)
 
-- 📝 I regularly write articles on [Tarnasi Weblog](https://shahriyartarnasi.site/Blog)
+- 📝 I regularly write articles on [Tarnasi Weblog](https://shahriyartarnasi.site/blog)
 
-- 💬 Ask me about **Python, Django, FastAPI, React, Electron**
+- 💬 Ask me about **PHP - Python - Laravel**
 
 - 📫 How to reach me **shahryar.tarnasi@gmail.com**
 
-- 📄 Know about my experiences [Tarnasi CV](https://shahriyartarnasi.site/Resume)
+- 📄 Know about my experiences [Tarnasi CV](https://shahriyartarnasi.site/resume)
 
-- ⚡ Fun fact **I ride, swim, play games, Workout, and motivate people to do beautiful code :)**
+- ⚡ Fun fact **I swim, work, and watch anime, and motivate people to find better ways to grow as myself :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
