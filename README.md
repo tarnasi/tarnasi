@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shahriyar Tarnasi</h1>
-<h3>I am a Software Engineer who knows about PHP / Laravel / Python(pandas-numpy) / react(nextjs)</h3>
+<h3>I am a Web Developer who knows about PHP / Laravel / Python(pandas-numpy) / react(nextjs)</h3>
 
 - 🔭 I’m currently working on a project its name is Drilliphant
 
