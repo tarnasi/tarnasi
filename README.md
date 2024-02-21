@@ -1,21 +1,19 @@
 <h1>Hi 👋, I'm Shahriyar Tarnasi</h1>
-<h3>I am a Web Developer who knows about PHP / Laravel / Python(pandas-numpy) / react(nextjs)</h3>
+<h3>I am a Web Developer who knows about Python / FastAPI / Django</h3>
 
-- 🔭 I’m currently working on a project its name is Drilliphant
+- 🔭 I’m currently working on a project its name is [Drilliphant]([https://github.com/tarnasi](https://saxondrilling.com/drilliphant-2/))
 
 - 🌱 I’m currently learning **Architecture**
 
-- 👯 I’m looking to collaborate on **PHP / Python / Nexjs projects**
+- 👯 I’m looking to collaborate on **Python projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarnasi](https://github.com/tarnasi)
 
-- 📝 I regularly write articles on [Tarnasi Weblog](https://shahriyartarnasi.site/blog)
-
-- 💬 Ask me about **PHP - Python - Laravel**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **shahryar.tarnasi@gmail.com**
 
-- 📄 Know about my experiences [Tarnasi CV](https://shahriyartarnasi.site/resume)
+- 📄 Know about my experiences [Tarnasi CV](https://www.linkedin.com/in/shahriyar-tarnasi)
 
 - ⚡ Fun fact **I swim, work, and watch anime, and motivate people to find better ways to grow as myself :)**
 
