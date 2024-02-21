@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Shahriyar Tarnasi</h1>
 <h3>I am a Web Developer who knows about Python / FastAPI / Django</h3>
 
-- 🔭 I’m currently working on a project its name is [Drilliphant]([https://github.com/tarnasi](https://saxondrilling.com/drilliphant-2/))
+- 🔭 I’m currently working on a project its name is [Drilliphant](https://saxondrilling.com/drilliphant-2)
 
 - 🌱 I’m currently learning **Architecture**
 
