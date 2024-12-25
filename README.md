@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shahryar.tarnasi@gmail.com**
 
-- 📄 Know about my experiences [Tarnasi CV](https://www.linkedin.com/in/shahriyar-tarnasi)
+- 📄 Know about my experiences [Tarnasi CV](https://www.linkedin.com/in/tarnasi)
 
 - ⚡ Fun fact **I swim, work, and watch anime, and motivate people to find better ways to grow as myself :)**
 
