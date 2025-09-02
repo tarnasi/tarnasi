@@ -1,21 +1,19 @@
 <h1>Hi 👋, I'm Shahriyar Tarnasi</h1>
 <h3>I am a Web Developer who knows about Python / FastAPI / Django</h3>
 
-- 🔭 I’m currently working on a project its name is [Drilliphant](https://drilliphant.com)
+- 🔭 I’m currently working on a project, its name is [Drilliphant](https://drilliphant.com)
 
-- 🌱 I’m currently Learning **CI/CD Piplines**
-
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Python / PHP / Nodejs / Vuejs Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarnasi](https://github.com/tarnasi)
 
-- 💬 Ask me about **Python, Backend Programming**
+- 💬 Ask me about **PHP, Python, Nodejs, Vuejs Backend Programming**
 
 - 📫 How to reach me **shahryar.tarnasi@gmail.com**
 
 - 📄 Know about my experiences [Tarnasi CV](https://www.linkedin.com/in/tarnasi)
 
-- ⚡ Fun fact **I swim, work, and watch anime, and motivate people to find better ways to grow as myself :)**
+- ⚡ Fun fact **I do workout, swim, and coding, and I watch Anime :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
