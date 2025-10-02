@@ -1,17 +1,17 @@
 <h1>Hi 👋, I'm Shahriyar Tarnasi</h1>
-<h3>I am a Web Developer who knows about Python / FastAPI / Django</h3>
+<h3>A Full-Stack Developer, Data Analyst, and Professional Market Analyst</h3>
 
-- 🔭 I’m currently working as a freelancer
+- 🔭 I’m currently working as a Full-Time Developer, focusing on **Web Development, Data Analysis, and Trading**.
 
-- 👯 I’m looking to collaborate on **Laravel / PHP / Nodejs / Vuejs / Nextjs Projects**
+- 👯 I’m open to collaboration on **C# / Python / FastAPI / Django / Node.js / Vue.js / Next.js**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarnasi](https://github.com/tarnasi)
 
-- 📫 How to reach me **[shahryar.tarnasi@gmail.com](https://www.linkedin.com/in/tarnasi/)**
+- 📫 How to reach me: **[shahryar.tarnasi@gmail.com](mailto:shahryar.tarnasi@gmail.com)**
 
-- 📄 Know about my experiences [Tarnasi CV](https://www.linkedin.com/in/tarnasi)
+- 📄 Learn more about my experience: [Tarnasi CV](https://www.linkedin.com/in/tarnasi)
 
-- ⚡ Fun fact **I workout, swim, and code, and I watch Anime :)**
+- ⚡ Fun fact: **I combine coding, data analysis, and trading with a passion for learning, education, and anime :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
