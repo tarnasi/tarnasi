@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Full-Time Developer, focusing on **Web Development, Data Analysis, and Trading**.
 
-- 👯 I’m open to collaboration on **C# / Python / FastAPI / Django / Node.js / Vue.js / Next.js**.
+- 👯 I’m open to collaboration on **Python / FastAPI / Django / Node.js / Vue.js / Next.js**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarnasi](https://github.com/tarnasi)
 
