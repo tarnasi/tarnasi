@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Shahriyar Tarnasi</h1>
 <h3>A Full-Stack Developer, Data Analyst, and Professional Market Analyst</h3>
 
-- 🔭 I’m currently working as a Full-Time Developer, focusing on **Web Development, Data Analysis, and Trading**.
+- 🔭 I’m currently working as a Full-Time Developer (available for part-time), focusing on **Platform Developing and Design**.
 
-- 👯 I’m open to collaboration on **Python / FastAPI / Django / Node.js / React / Next.js**.
+- 👯 I’m open to collaboration on **Python / JS|Node.js / React / Next.js**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarnasi](https://github.com/tarnasi)
 
